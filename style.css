@@ -1,7 +1,12 @@
 body {
+    max-width: fit-content;
     font-family: 'Onest', sans-serif;
     font-weight: 400;
     line-height: 1.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
 }
 
 h1, h2, h3, h4, h5 {
@@ -10,8 +15,17 @@ h1, h2, h3, h4, h5 {
 }
 
 ul{
+    
     list-style: none;
-    padding: 0;
+    display: flex;
+    justify-content: ;
+    padding-left: 0;
+    margin-bottom: 0;
+    width: 150;
+}
+
+li {
+    width: 30px;
 }
 
 a {
@@ -19,8 +33,25 @@ a {
     font-size: 16px;
 }
 
+.name {
+    margin-top: 0;
+} 
+.mobile {
+    margin-bottom: 0;
+}
+
+.title, .email {
+    margin-top: 0;
+}
+
 .small-text {
     font-size: 10px;
     line-height: 0;
     margin-top: 0; 
+}
+
+.slogan{
+    width: 180px;
+    margin-top: 1px;
+    margin-bottom: 0;
 }
