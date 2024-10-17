@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Onest:wght@100..900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap" rel="stylesheet">
     <style>
 
-.container{
-    max-width: fit-content;
+.container {
+    max-width: fit-content; /* Changed from fit-content for better compatibility */
     font-family: 'Onest', sans-serif;
     font-weight: 400;
     line-height: 1.5;
@@ -28,18 +28,16 @@
 h1, h2, h3, h4, h5 {
     color: #5C5C66;
     font-weight: 500;
-    line-height: 1.2;   
+    line-height: 1.2;
 }
 
-ul{
-    
+ul {
     list-style: none;
     display: flex;
     padding-left: 0;
     margin-top: 20px;
     margin-bottom: 0;
 }
-
 
 a {
     text-decoration: none;
@@ -51,8 +49,9 @@ a {
     color: #050414;
     font-weight: 700;
     margin-top: 0;
-    margin-bottom: 0
-} 
+    margin-bottom: 0;
+}
+
 .mobile {
     color: #050414;
     font-weight: 700;
@@ -67,10 +66,9 @@ a {
     font-size: 10px;
     line-height: 0;
     margin-top: 0;
-    margin-bottom: 10px; 
 }
 
-.slogan{
+.slogan {
     text-align: center;
     width: 200px;
     margin-top: 10px;
@@ -79,19 +77,17 @@ a {
     font-weight: 500;
 }
 
-.container-1{
+.container-1 {
     width: 500px;
 }
 
-.container-2{
+.container-2 {
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
-.logo
-{
+.logo {
     background: rgba(187, 187, 187, 0.3);
     border-radius: 20px;
     padding: 10px 35px;
@@ -107,36 +103,33 @@ a {
     height: 20px;
 }
 
-.social-icons path {
-    fill:white
-}
-
+/* Removed social-icons path, as it's not necessary for external images */
     </style>
-    <title>Smartup sighn</title>
+    <title>Smartup Sign</title>
 </head>
 <body>
     <div class="container">
         <div class="container-1">
-        <h2 class="name">%%FirstName%% %%LastName%%</h2>
-        <h3 class="title">%%Title%%</h3>
-        <h3 class="mobile">%%MobileNumber%%</h3>
-        <h4 class="email">%%Email%%</h4>
-        <h5 class="small-text">We're in Uzbekistan:</h5>
-        <h5 class="small-text">Tashkent, Beshyogoch, 22</h5>
-        <ul>
-            <li><a href="https://www.facebook.com/SmartupERP/"><img class="social-icons" src="https://nabikhujayev.github.io/Green/icons/facebook.svg"></a></li>
-            <li><a href="https://www.linkedin.com/showcase/smartup-erp/"><img class="social-icons " src="https://nabikhujayev.github.io/Green/icons/linkedin.svg"></a></li>
-            <li><a href="https://www.youtube.com/@smartup_erp"><img class="social-icons" src="https://nabikhujayev.github.io/Green/icons/youtube.svg"></a></li>
-            <li><a href="https://www.instagram.com/smartup_erp/"><img class="social-icons" src="https://nabikhujayev.github.io/Green/icons/instagram.svg"></a></li>
-            <li><a href="https://yandex.uz/maps/org/164690234624/"><img class="social-icons" src="https://nabikhujayev.github.io/Green/icons/maps.svg"></a></li>
-        </ul>
-     </div>
+            <h2 class="name">%%FirstName%% %%LastName%%</h2>
+            <h3 class="title">%%Title%%</h3>
+            <h3 class="mobile">%%MobileNumber%%</h3>
+            <h4 class="email">%%Email%%</h4>
+            <h5 class="small-text">We're in Uzbekistan:</h5>
+            <h5 class="small-text">Tashkent, Beshyogoch, 22</h5>
+            <ul>
+                <li><a href="https://www.facebook.com/SmartupERP/" target="_blank" rel="noopener noreferrer"><img class="social-icons" src="https://nabikhujayev.github.io/Green/icons/facebook.svg" alt="Facebook"></a></li>
+                <li><a href="https://www.linkedin.com/showcase/smartup-erp/" target="_blank" rel="noopener noreferrer"><img class="social-icons" src="https://nabikhujayev.github.io/Green/icons/linkedin.svg" alt="LinkedIn"></a></li>
+                <li><a href="https://www.youtube.com/@smartup_erp" target="_blank" rel="noopener noreferrer"><img class="social-icons" src="https://nabikhujayev.github.io/Green/icons/youtube.svg" alt="YouTube"></a></li>
+                <li><a href="https://www.instagram.com/smartup_erp/" target="_blank" rel="noopener noreferrer"><img class="social-icons" src="https://nabikhujayev.github.io/Green/icons/instagram.svg" alt="Instagram"></a></li>
+                <li><a href="https://yandex.uz/maps/org/164690234624/" target="_blank" rel="noopener noreferrer"><img class="social-icons" src="https://nabikhujayev.github.io/Green/icons/maps.svg" alt="Maps"></a></li>
+            </ul>
+        </div>
         <div class="small-text container-2">
-            <div class="logo"><a  href="https://smartup.uz"><img src="https://nabikhujayev.github.io/Green/icons/smartup.png" width="180px"></a></div>
+            <div class="logo">
+                <a href="https://smartup.uz/" target="_blank" rel="noopener noreferrer"><img src="https://nabikhujayev.github.io/Green/icons/smartup.png" width="180px" alt="Smartup logo"></a>
+            </div>
             <h5 class="slogan">Cloud platform for distribution management and field team automation</h5>
         </div>
     </div>
-        
-       
 </body>
 </html>
