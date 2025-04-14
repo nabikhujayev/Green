@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="e1Hj3R0rBqZ1" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" project-id="028e8def5eb8458dbc1c65dbf70f34b2" export-id="abcfe36d97a34716a1da88d187966510" cached="true" width="300" height="300" viewBox="0 0 300 300" data-app="Xyris">
+    <defs>
+    </defs>
+    <g transform="" transform-origin="center" opacity="1" style="transform-box: fill-box;">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M 150.54 280 C 188.236 280 216.253 273.748 236.815 260.007 L 150.048 172.576 L 62.9591 260.093 C 83.5197 273.837 113.223 280 150.54 280 Z M 149.942 180.557 Z" fill="rgb(0, 0, 0)" transform-origin="top" transform="" style="transform-box: fill-box;">
+            <animateTransform attributeName="transform" type="scale" begin="-0.00001" dur="4.980020000000001" keyTimes="0; 0.3957831325301205; 0.6931726907630524; 1" values="0; 0; 1, 1; 1" fill="freeze" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.58 1;0 0 1 1" repeatCount="indefinite">
+            </animateTransform>
+            <animate attributeName="opacity" keyTimes="0; 0.4415662650602409; 0.7389558232931727; 0.8012048192771084; 0.9328670386242963; 1" values="0; 0; 1; 1; 0; 0" begin="-0.00001" dur="4.980020000000001" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" repeatCount="indefinite">
+            </animate>
+        </path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M 236.817 260.017 C 266.516 240.165 280 204.01 280 149.42 C 280 94.8261 266.601 58.9267 236.902 39.0753 L 149.961 126.507 L 150.053 172.623 L 236.817 260.017 Z" fill="rgb(47, 199, 126)" transform-origin="left" transform="" style="transform-box: fill-box;">
+            <animateTransform attributeName="transform" type="scale" begin="-0.00001" dur="4.980020000000001" keyTimes="0; 0.2971887550200803; 0.594578313253012; 1" values="0; 0; 1, 1; 1" fill="freeze" additive="sum" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0 0 1 1" repeatCount="indefinite">
+            </animateTransform>
+            <animate attributeName="opacity" keyTimes="0; 0.33714859437751; 0.6345381526104418; 0.8012048192771084; 0.9328670386242963; 1" values="0; 0; 1; 1; 0; 0" begin="-0.00001" dur="4.980020000000001" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" repeatCount="indefinite">
+            </animate>
+        </path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M 149.92 125.912 Z M 149.942 126.516 L 236.903 39.0868 C 216.342 25.3434 187.855 20.0002 150.54 20.0002 C 112.843 20.0002 83.4747 25.2179 62.9145 38.9613 L 149.942 126.516 Z" fill="rgb(0, 0, 0)" transform-origin="bottom" transform="" style="transform-box: fill-box;">
+            <animateTransform attributeName="transform" type="scale" begin="-0.00001" dur="4.980020000000001" keyTimes="0; 0.1967871485943775; 0.49417670682730924; 1" values="0; 0; 1, 1; 1" fill="freeze" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.58 1;0 0 1 1" repeatCount="indefinite">
+            </animateTransform>
+            <animate attributeName="opacity" keyTimes="0; 0.24076305220883534; 0.538152610441767; 0.8012048192771084; 0.9328670386242963; 1" values="0; 0; 1; 1; 0; 0" begin="-0.00001" dur="4.980020000000001" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" repeatCount="indefinite">
+            </animate>
+        </path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M 62.9179 38.9706 C 33.2177 58.822 20.0001 95.2077 20.0001 149.799 C 20.0001 204.392 33.2969 240.258 62.9972 260.109 L 150.05 172.628 L 149.966 126.506 L 62.9179 38.9706 Z" fill="rgb(1, 146, 201)" transform-origin="right" transform="" style="transform-box: fill-box;">
+            <animateTransform attributeName="transform" type="scale" begin="-0.00001" dur="4.980020000000001" keyTimes="0; 0.09839357429718874; 0.3957831325301205; 1" values="0; 0; 1, 1; 1" fill="freeze" additive="sum" calcMode="spline" keySplines="0 0 1 1;0.42 0 0.58 1;0 0 1 1" repeatCount="indefinite">
+            </animateTransform>
+            <animate attributeName="opacity" keyTimes="0; 0.1365461847389558; 0.43393574297188753; 0.8012048192771084; 0.9328670386242963; 1" values="0; 0; 1; 1; 0; 0" begin="-0.00001" dur="4.980020000000001" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" repeatCount="indefinite">
+            </animate>
+        </path>
+        <rect fill="#6B67FD" stroke="#000000" stroke-width="0" x="20" y="20" width="260" height="260" transform="" fill-opacity="0">
+        </rect>
+    </g>
+</svg>
